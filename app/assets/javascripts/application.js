@@ -17,3 +17,8 @@
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
+// setInterval(function(){
+//
+//     $('#some-kinda-container').load('/some/kinda/url.html #bit-you-need');
+//
+// }, 15000);
